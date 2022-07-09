@@ -18,4 +18,4 @@ This project uses the [Alpha Vantage API](https://www.alphavantage.co/query) to 
 
 
 # License
-- [MIT License](https://github.com/Solyyy/iss_overhead_notifier/blob/main/LICENSE.txt)
+- [MIT License](https://github.com/Solyyy/stock_news_alerter/blob/main/LICENSE.txt)
